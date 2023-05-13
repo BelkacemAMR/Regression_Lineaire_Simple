@@ -24,8 +24,9 @@ L'objectif de la régression linéaire simple est de trouver la meilleure droite
 pip install scikit-learn numpy matplotlib
 ```
 3. Clonez ce référentiel GitHub ou téléchargez simplement le fichier du programme main.py.
-4. 
-Exécutez le programme à l'aide de la commande suivante :
+
+
+4. Exécutez le programme à l'aide de la commande suivante :
 
 ```python
 main.py
