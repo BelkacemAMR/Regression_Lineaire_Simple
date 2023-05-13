@@ -19,11 +19,12 @@ L'objectif de la régression linéaire simple est de trouver la meilleure droite
 ## Instructions
 1. Assurez-vous d'avoir Python 3 installé sur votre système.
 2. Installez les bibliothèques requises en exécutant la commande suivante :
-3. 
+ 
 ```python
 pip install scikit-learn numpy matplotlib
 ```
-Clonez ce référentiel GitHub ou téléchargez simplement le fichier du programme main.py.
+3. Clonez ce référentiel GitHub ou téléchargez simplement le fichier du programme main.py.
+4. 
 Exécutez le programme à l'aide de la commande suivante :
 
 ```python
