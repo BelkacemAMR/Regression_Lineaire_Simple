@@ -32,16 +32,7 @@ def animate(i):
         moyenne_y = np.mean(y)
         moyenne_x_carre = np.mean([x_i * x_i for x_i in x])
 
-# "Ce code est un exemple simple d'animation pour présenter la régression linéaire. L'animation
-# consiste en la création de points aléatoires, suivis de l'ajustement d'une droite de régression
-# linéaire aux données.
-# Dans cette animation, nous avons une fonction nommée create_pseudo_random_data(x) qui
-# prend en entrée une valeur de x et retourne une valeur de y générée aléatoirement en utilisant
-# la relation y = 2 * x + 1 avec une variation aléatoire.
-# La fonction animate(i) est appelée par FuncAnimation à chaque intervalle de temps défini
-# (dans ce cas, toutes les 1000 millisecondes). À chaque appel de animate(i) , nous ajoutons un
-# nouveau point de données à notre ensemble de données, puis nous recalculons la droite de
-# régression linéaire en utilisant tous les points de donnée
+
 
 
         moyenne_xy = np.mean([x_i * y_i for x_i, y_i in zip(x, y)])
