@@ -39,9 +39,9 @@ Dans ce programme, nous utilisons des données d'exemple fournies directement da
 ## Dépendances:
 
 ### scikit-learn : 
-bibliothèque pour l'apprentissage automatique en Python.
+Bibliothèque pour l'apprentissage automatique en Python.
 ### numpy : 
-bibliothèque pour le calcul numérique en Python.
+Bibliothèque pour le calcul numérique en Python.
 ### matplotlib : 
-bibliothèque pour la visualisation de données en Python.
+Bibliothèque pour la visualisation de données en Python.
  
