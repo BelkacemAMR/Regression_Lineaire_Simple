@@ -30,3 +30,13 @@ Exécutez le programme à l'aide de la commande suivante :
 main.py
 ```
 Vous verrez les coefficients de la droite de régression et la prédiction pour une nouvelle valeur de x affichés dans la console. De plus, un graphique sera généré montrant les données d'exemple, la droite de régression et la prédiction pour la nouvelle valeur de 'x'.
+
+## Exemple de Données:
+Dans ce programme, nous utilisons des données d'exemple fournies directement dans le code. Les vecteurs 'x' et 'y' représentent les valeurs d'exemple pour les variables indépendante et dépendante respectivement. Vous pouvez modifier ces valeurs pour utiliser vos propres données.
+
+## Dépendances:
+
+### scikit-learn : bibliothèque pour l'apprentissage automatique en Python.
+### numpy : bibliothèque pour le calcul numérique en Python.
+### matplotlib : bibliothèque pour la visualisation de données en Python.
+ 
