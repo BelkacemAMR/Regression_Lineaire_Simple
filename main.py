@@ -33,8 +33,6 @@ def animate(i):
         moyenne_x_carre = np.mean([x_i * x_i for x_i in x])
 
 
-
-
         moyenne_xy = np.mean([x_i * y_i for x_i, y_i in zip(x, y)])
         # on calcule les coefficients de la droite
         a = (moyenne_xy - moyenne_x * moyenne_y) / (moyenne_x_carre - moyenne_x * moyenne_x)
